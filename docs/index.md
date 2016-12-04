@@ -16,3 +16,7 @@ CGMarket PSD Template include all layouts for:
 * About us
 
 Theme for WordPress, Magento, PrestaShop, OpenCart, Shopify will be released soon.
+
+![CGMarket PSD Template by WPDance.com](img/intro.jpg)
+
+CGMarket PSD Template is designed by [EMThemes](http://www.emthemes.com/) and WordPress developed by [WPDance](http://wpdance.com/)
